@@ -174,4 +174,3 @@ if __name__ == '__main__':
     # User.drop_table()
     # Username.drop_table()
     # Password.drop_table()
-
